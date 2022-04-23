@@ -1,23 +1,26 @@
-# Portal de informações sobre Notícias Para Pacientes de Cirurgia Ortognática
-Portal de informações sobre Notícias Para Pacientes de Cirurgia Ortognática
-`CURSO`
+# Portal de informações sobre Notícias Cirurgia Ortognática
 
-`DISCIPLINA`
+`CURSO`: Análise e desenvolvimento de sistema
 
-`SEMESTRE`
+`DISCIPLINA`: Projeto: Desenvolvimento de Aplicação Web Front-End
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`SEMESTRE` 1º semestre de 2022
+
+Este trabalho visa criar um site/portal de informações na área da saúde, voltado especificamente para reunir dicas para pacientes que já passaram ou pretendem passar pelo processo de cirurgia ortognática, que é um procedimento cirúrgico bucomaxilofacial. O pré e pós-operatório dessa cirurgia costumam demandar muitos cuidados dos pacientes, que por vezes, são leigos no assunto ou acabam por precisar consultar diversos sites em busca de um único esclarecimento. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Carolina do Carmo Vaz
+* Jadson Miranda Garcias
+* Jefferson Rodrigues Lacerda
+* Bianca Campos Xavier
+* Marco Túlio Felix Santiago 
+* Rhuan Pablo Matos de Souza
+* Fábio Cristiano de Moraes
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
