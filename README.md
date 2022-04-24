@@ -1,4 +1,4 @@
-# Portal de informações sobre Notícias Cirurgia Ortognática
+# Portal de informações de Notícias sobre a Cirurgia Ortognática
 
 `CURSO`: Análise e desenvolvimento de sistema
 
