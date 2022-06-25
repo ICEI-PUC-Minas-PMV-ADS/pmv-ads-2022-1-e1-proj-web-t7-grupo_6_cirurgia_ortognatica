@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat", sans-serif;
+}
+
+body {
+    background: #333;
+    overflow: hidden;
+}
+
+.image-header img {
+    width: 100%;
+    height: 95vh;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    z-index: -50;
+}
+
+.container-bg {
+    padding: 373px 60px;
+    text-align: center;
+    color: #2f3542;
+    border-radius: 30px;
+}
+
+.conteudo-form {
+    padding: 15px;
+    background-color: #f3f9fa;
+    border-radius: 30px;
+    box-shadow: 5px 5px rgba(36, 35, 35, 0.842);
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo-form h1 {
+    margin: 40px auto;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.conteudo-form p {
+    margin: 40px auto;
+    font-size: 1.3rem;
+    font-weight: 200;
+}
+
+.email-box {
+    height: 40px;
+    justify-content: center;
+    display: flex;
+}
+
+.email-box i {
+    background: #2f3542;
+    width: 40px;
+    line-height: 40px;
+    color: white;
+    border-radius: 5px 0  0 5px;
+}
+
+.tbox,
+.btn {
+    border: none;
+    outline: none;
+}
+
+.tbox {
+    width: 0px;
+    transition: 0.6s;
+}
+
+.email-box:hover>.tbox,
+.tbox:focus {
+    width: 260px;
+    padding: 0 10px;
+    border-bottom: 1px solid #2f3542;
+    border-top: 1px solid #2f3542;
+}
+
+.btn {
+    background: #2f3542;
+    color: #fefefe;
+    padding: 0 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+
+
+
